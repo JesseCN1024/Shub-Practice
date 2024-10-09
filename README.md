@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+#Project Data report
+
+## Project Image
+![](2024-10-09-15-19-42.png)
+
+
 
 ## Getting Started
 
