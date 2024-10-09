@@ -1,8 +1,13 @@
 #Project Data report
 
 ## Project Image
+### Data Report
 ![](2024-10-09-15-19-42.png)
+### Form Validation 
 
+![](2024-10-09-22-20-43.png)
+
+![](2024-10-09-22-21-13.png)
 
 
 ## Getting Started
