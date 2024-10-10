@@ -1,14 +1,28 @@
-#Project Data report
-
-## Project Image
+# Project Data report
+Em thực hiện 3 task là task 1 và 2 (bắt buộc đối với FE) và task 4. Bên dưới là các giao diện: 
+## Project Images
 ### Data Report
+* Đường dẫn: `/app/page.tsx`
+* URL: `localhost:3000/`
+
+![](2024-10-10-17-36-26.png)
+
 ![](2024-10-09-15-19-42.png)
 ### Form Validation 
+* Đường dẫn: `/app/input/page.tsx`
+* URL: `localhost:3000/input`
 
 ![](2024-10-09-22-20-43.png)
 
 ![](2024-10-09-22-21-13.png)
 
+### Task 4 
+* Đường dẫn: `/app/task4/page.tsx`
+* URL: `localhost:3000/task4`
+
+![](2024-10-10-17-32-20.png)
+
+![](2024-10-10-17-32-14.png)
 
 ## Getting Started
 
